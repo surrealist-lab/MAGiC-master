@@ -1,10 +1,11 @@
 
 
-**MAGiC** is an open source software application, for integrating and analyzing multimodal channels in face-to-face social communication. Specifically, MAGiC integrates gaze data, audio data for speech segmentation and video data for face tracking. Find out more in our [Wiki on GitHub](https://github.com/surrealist-lab/MAGiC/wiki) and [Youtube Channel](https://www.youtube.com/channel/UC2gvq0OluwpdjVKGSGg-vaQ).
+
+**MAGiC** is an open source software application, for integrating and analyzing multimodal channels in face-to-face social communication. Specifically, MAGiC integrates gaze data, audio data for speech segmentation and video data for face tracking. Find out more in our [Wiki on GitHub](https://github.com/surrealist-lab/MAGiC-master/tree/master/MAGiC/wiki) and [Youtube Channel](https://www.youtube.com/channel/UC2gvq0OluwpdjVKGSGg-vaQ).
 
 ---
 <p align="center">
-<img src="https://raw.github.com/surrealist-lab/MAGiC/master/MAGiC/images/AOI.png" width="350"/> <img src="https://raw.github.com/surrealist-lab/MAGiC/master/MAGiC/images/speechAnnotation.png" width="500"/>
+<img src="https://raw.github.com/surrealist-lab/MAGiC-master/tree/master/MAGiC/images/AOI.png" width="350"/> <img src="https://raw.github.com/surrealist-lab/MAGiC-master/tree/master/MAGiC/images/speechAnnotation.png" width="500"/>
 </p>
 
 ---
@@ -22,7 +23,7 @@ Speech and gaze are closely connected modalities in social interaction. MAGiC is
 
 ### WIKI
 
-For instructions of how to install/compile/use the project please see [WIKI](https://github.com/surrealist-lab/MAGiC/wiki)
+For instructions of how to install/compile/use the project please see [WIKI](https://github.com/surrealist-lab/MAGiC-master/tree/master/MAGiC/wiki)
 
 ---
 
@@ -38,8 +39,9 @@ We welcome and appreciate contributions from the community. There are many ways 
 
 ### License
 
-[![GPLv3+](http://gplv3.fsf.org/gplv3-127x51.png)](https://github.com/surrealist-lab/MAGiC/blob/master/LICENSE)
+[![GPLv3+](http://gplv3.fsf.org/gplv3-127x51.png)](https://github.com/surrealist-lab/MAGiC-master/tree/master/MAGiC/blob/master/LICENSE)
 MAGiC is licensed under the GNU General Public License (GPL).
 You have to respect [OpenFace](https://github.com/TadasBaltrusaitis/OpenFace), [Sphinx4](https://github.com/cmusphinx/sphinx4), boost, TBB, dlib, and OpenCV licenses.
 Thank you!
+
 
