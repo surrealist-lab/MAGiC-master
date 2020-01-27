@@ -5,7 +5,7 @@
 
 ---
 <p align="center">
-<img src="https://raw.github.com/surrealist-lab/MAGiC-master/tree/master/MAGiC/images/AOI.png" width="350"/> <img src="https://raw.github.com/surrealist-lab/MAGiC-master/tree/master/MAGiC/images/speechAnnotation.png" width="500"/>
+<img src="https://github.com/surrealist-lab/MAGiC-master/blob/master/MAGiC/images/AOI.png" width="350"/> <img src="https://raw.github.com/surrealist-lab/MAGiC-master/blob/master/MAGiC/images/speechAnnotation.png" width="500"/>
 </p>
 
 ---
