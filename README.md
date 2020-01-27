@@ -1,7 +1,7 @@
 
 
 
-**MAGiC** is an open source software application, for integrating and analyzing multimodal channels in face-to-face social communication. Specifically, MAGiC integrates gaze data, audio data for speech segmentation and video data for face tracking. Find out more in our [Wiki on GitHub](https://github.com/surrealist-lab/MAGiC-master/tree/master/MAGiC/wiki) and [Youtube Channel](https://www.youtube.com/channel/UC2gvq0OluwpdjVKGSGg-vaQ).
+**MAGiC** is an open source software application, for integrating and analyzing multimodal channels in face-to-face social communication. Specifically, MAGiC integrates gaze data, audio data for speech segmentation and video data for face tracking. Find out more in [Youtube Channel](https://www.youtube.com/channel/UC2gvq0OluwpdjVKGSGg-vaQ).
 
 ---
 <p align="center">
@@ -23,7 +23,7 @@ Speech and gaze are closely connected modalities in social interaction. MAGiC is
 
 ### WIKI
 
-For instructions of how to install/compile/use the project please see [WIKI](https://github.com/surrealist-lab/MAGiC-master/tree/master/MAGiC/wiki)
+For instructions of how to install the project please see [WIKI](https://github.com/surrealist-lab/MAGiC-master/wiki)
 
 ---
 
